@@ -12,4 +12,7 @@ lbyec72-ej1-p3-single_multidimensional_arrays-mnsarias created by GitHub Classro
 ![](matrix_add1.png)
 ![](matrix_mult1.png)
 ![](matrix_transpose1.png)
+![](sum of rows.png)
+![](sum of columns.png)
+![](sum of diagonal.png)
 ![](exit.png)
